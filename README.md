@@ -1,51 +1,42 @@
 # HelenaDev
 README section
-# 👋 Hi, I’m Helena!  
+Hi, I'm Helena Trombetta 👋
 
-💻 Aspiring Full-Stack Developer | 🤖 AI Enthusiast  
-⚡ Curious mind, creative spirit, and always open to new challenges  
+I'm a Computer Science student (P1) and currently focusing on front-end development, but with big plans to become a Full Stack Developer and explore Artificial Intelligence. Right now, I work primarily with HTML, CSS, JavaScript, React, Node.js, PHP, and Python. I'm always eager to learn new technologies and improve the ones I already know.
 
----
+🚀 My Goals on GitHub
 
-## 🚀 About Me  
-- 🌍 From Brazil, passionate about **web development**, **full-stack projects**, and exploring **AI**  
-- 🎓 Currently studying at university: **HTML, CSS, JavaScript, and Python**  
-- 📂 Check out my portfolio project **soon** 
--     When I’m not coding, I enjoy playing **futevôlei**  
-- 🤝 Always open to collaborations and knowledge-sharing  
+Showcasing my projects: I’m sharing my projects to build a solid portfolio and demonstrate my web development skills.
 
----
+Learning and growing: I'm focused on becoming a Full Stack Developer and diving deeper into Artificial Intelligence. The goal is to expand my knowledge and turn that into real-world projects.
 
-## 🛠️ Tech & Tools  
-- **Front-End**: HTML, CSS, JavaScript (learning React soon!)  
-- **Back-End**: Python (learning more to grow into full-stack)  
-- **Version Control**: Git & GitHub  
-- **Tools**: VS Code, Figma, Node.js  
+Building visibility in the tech community: I aim to grow my presence in the tech world, interact with like-minded individuals, and contribute to the open-source ecosystem.
 
----
+💻 Technologies I Use
 
-## 📈 GitHub Stats  
-![Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenadntt&show_icons=true&theme=radical)  
+Frontend: HTML, CSS, JavaScript, React
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadntt&layout=compact&theme=radical)  
+Backend: Node.js, PHP
 
----
+Languages: Python
 
-## 🌱 Currently Learning  
-- 🖥️ Web fundamentals (**HTML, CSS, JS**)  
-- 🐍 Python for programming and backend  
-- 🔜 Growing towards **Full-Stack Development**  
-- 🤖 Exploring **Artificial Intelligence** basics  
+Tools and Libraries: Pygame, ttk, Numpy
 
----
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenatrombetta)   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenadnttrombetta@gmail.com)  
+🔧 What I'm Learning
 
----
+Currently, I'm focused on becoming a Full Stack Developer, learning how to effectively integrate back-end and front-end. I'm also deeply interested in Artificial Intelligence and plan to incorporate AI into my future projects.
 
-## ✨ Motto  
-> *"It will be alright"*
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+🧑‍💻 How to Collaborate
+
+I’m open to contributions and enjoy collaborating on projects that promote continuous learning and improvement. If you’re interested in working together or have partnership ideas, let me know!
+
+LinkedIn: www.linkedin.com/in/helenatrombetta
+
+Email: helenadnttrombetta@gmail.com
+
+⚽ Hobbies
+
+When I’m not coding, I love playing footvolley. I believe balancing work and hobbies is essential for maintaining productivity.
